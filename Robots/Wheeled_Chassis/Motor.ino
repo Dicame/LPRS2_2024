@@ -73,8 +73,6 @@ void loop() {
     brzina = -100;
   }
  
-  pwm_value = map(brzina, -100, 100, 0, 255);
- 
  
   if ( brzina > 0 && brzina <= 100) {
     pwm_value = map(brzina, 100, 0, 0, 255);
