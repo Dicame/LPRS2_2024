@@ -9,8 +9,7 @@ void update_servo() {
 }
  
 int8_t brzina;
- 
- 
+  
 int pinTasterLevo = 8;  
 int pinTasterDesno = 9;  
 int pinTasterNapred = 11;
