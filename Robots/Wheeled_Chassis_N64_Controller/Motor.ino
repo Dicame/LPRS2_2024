@@ -1,9 +1,6 @@
 #include <N64Controller.h>
 #include <N64Interface.h>
 
-#include <N64Controller.h>
-#include <N64Interface.h>
-
 #define DEG_STEP 15
 #define SPEED_STEP 10
 #include <Servo.h>
